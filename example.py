@@ -18,7 +18,7 @@ def calculate_bmi():
  
 window = Tk()
 window.title('Калькулятор индекса массы тела (ИМТ)')
-window.geometry('400x150')
+window.geometry('400x150+500+300')
  
  
 frame = Frame(
