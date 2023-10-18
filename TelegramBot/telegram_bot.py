@@ -1,4 +1,4 @@
-from aiogram import Bot, Dispatcher, types
+from aiogram import Bot, Dispatcher, executor, types
  
 API_TOKEN = '5860668091:AAFqomKS75OAQ9ST27fbCTK1tsg2Bj78WUc'
  
